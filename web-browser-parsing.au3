@@ -1,4 +1,4 @@
-#include "C:\Development\Projects\IT\Programming\!it-projects\!best-projects\web-sites-parsing\web-browser-parsing-constants.au3"
+#include "C:\Development\Projects\IT\Programming\!git-web\public\web-sites-parsing\web-browser-parsing-constants.au3"
 ;#include "Y:\web-browser-parsing-constants.au3"
 
 ;;Func SleepWithGlobalSpeed(Const $sleep_p)

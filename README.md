@@ -1,10 +1,24 @@
 # Web Sites Parsing
 Using AutoIt code library to automatize downloading of assets from web sites with free 3D models and materials.
 
+## Repository Web Pages
+[github](https://github.com/FokinDenis88/web-sites-parsing)  
+[gitlab (main)](https://gitlab.com/furious-dragon/web-sites-parsing)  
+[gitverse (Russia)](https://gitverse.ru/FokinDenis88/web-sites-parsing)
+
 ## Installation
 1) Install Mozilla FireFox, AutoIt (to automatize user actions with browser) and Lightshot (for screen shoting)
 2) Choose right screen size
 3) Choose right paths of import files in source code
+4) Choose develop branch
+
+## Contact
+**Skype:** live:dragon8806  
+**Telegram:** https://t.me/Furious_Dragon_88  
+**VK (Russia):** https://vk.com/furious__dragon  
+**Discord:** ***ID:*** 1203018807162175522 fokin_denis_yurievich_  ***User Name:*** fokin_denis_yurievich_  
+**Email:** fokin-denis-88-code@ya.ru  
+**Gitter:** @fokindenis88_gitlab:gitter.im
 
 ## Support
 ### Bitcoin and other cryptocurrency:  
